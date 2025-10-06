@@ -1,0 +1,5 @@
+fastapi
+docker
+langchain
+langchain_community
+gemini
